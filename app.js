@@ -31,7 +31,7 @@ const db = [
       "logradouro" : "Avenida Tiradentes, 3420, Embratel",
       "telefone":"(69)3225-9976",
       "imagem":"http://portal.colombo.pr.gov.br/wp-content/uploads/2015/10/foto-1.jpg",
-      "especialidades": ["cardiologista", "pediatra", "ginecologista"]
+      "especialidades": ["cardiologista", "ginecologista","proctologista"]
     },
     {
       "nome": "Centro de Saude Caladinho",
@@ -48,6 +48,22 @@ const db = [
       "telefone":"(69)3225-9976",
       "imagem":"https://correiodecarajas.com.br/wp-content/uploads/2018/05/parauapebas-unidade-de-saude-e-inaugurada-no-bairro-cidade-nova.jpg",
       "especialidades": ["cardiologista", "pediatra", "proctologista"]
+    },
+    {
+      "nome": "Policlinica Ana Adelaide",
+      "horarioAtendimento":"Domingo a domingo 24h",
+      "logradouro" : "Rua Padre Chiquinho, 1060, Pedrinhas",
+      "telefone":"(69)3224-2834",
+      "imagem":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqZ45Pw1jmBnCZwsCF75R6qDKC_MP_vErv6Jk_uD3E7h0EymxS5A",
+      "especialidades": ["neurologista", "clinico geral"]
+    },
+    {
+      "nome": "Unidade de Saude Nova Floresta",
+      "horarioAtendimento":"Segunda a sexta 8h as 15h",
+      "logradouro" : "Av. Jatuarana, 3510, Conceicao",
+      "telefone":"(69)3227-7288",
+      "imagem":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2z1Pa3jfAJ973ECE8hr7VwKX0iP2hH0kLWUqTLQBN-1-41kjaew",
+      "especialidades": ["dentista", "fisioterapia","ortopedia"]
     }
   ];
 
